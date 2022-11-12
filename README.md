@@ -1,0 +1,2 @@
+# People_detection_in_aerial_photographs
+ML championship
