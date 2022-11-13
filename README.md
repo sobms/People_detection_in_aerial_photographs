@@ -42,3 +42,11 @@ Recall считается как:
 
 > TP (True Positive) — количество верно угаданных значений одного класса \
 > FN (False Negative) — количество неправильно угаданных значений класса
+
+### Результаты
+
+![image](https://user-images.githubusercontent.com/62150448/201531672-de2c0a64-63b1-4039-8ae8-ef99e2d1481e.png)
+
+![image](https://user-images.githubusercontent.com/62150448/201531913-faffe622-1a95-4fe0-95ce-4c6e33bfc86e.png)
+
+![image](https://user-images.githubusercontent.com/62150448/201532138-a9c836eb-1d67-4e48-be2e-0c4dcf137b08.png)
