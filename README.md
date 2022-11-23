@@ -1,5 +1,5 @@
 # People_detection_in_aerial_photographs
-ML championship (Omsk region)
+3rd place in the Omsk Region ML championship.
 ### Условие задачи
 На основе данных, полученных с БПЛА, разработайте модель, которая
 будет находить изображения, на которых присутствуют люди, и будет
